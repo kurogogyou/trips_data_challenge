@@ -53,6 +53,10 @@ Ensure you have **Python 13.1** installed and the following libraries:
 | `weekly_avg_by_bound_box.py` | Executes the **weekly trip average query for a bounding box** (coordinates provided as arguments). |
 | `bonus.py` | Executes **bonus queries** based on the provided argument. |
 
+### **Other**
+| File Name | Description |
+|-----------|------------|
+| `aws_sketch.drawio` | A diagram of an alternative implementation for this challenge, had I done it purely in AWS. |
 ---
 
 ## 📌 Notes
